@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nom": "Ordinateur Portable Dell XPS 13",
+        "description": "Ultrabook puissant avec écran 13,3 pouces et processeur Intel i7.",
+        "prix": 1299.99,
+        "stock": 10,
+        "created_at": "2025-03-29T12:00:00Z"
+    },
+    {
+        "id": 2,
+        "nom": "Smartphone Samsung Galaxy S23",
+        "description": "Téléphone haut de gamme avec écran AMOLED 120 Hz.",
+        "prix": 999.99,
+        "stock": 25,
+        "created_at": "2025-03-28T14:30:00Z"
+    },
+    {
+        "id": 3,
+        "nom": "Écouteurs sans fil Sony WF-1000XM4",
+        "description": "Écouteurs Bluetooth avec réduction de bruit active.",
+        "prix": 279.99,
+        "stock": 15,
+        "created_at": "2025-03-27T09:45:00Z"
+    },
+    {
+        "id": 4,
+        "nom": "Console PlayStation 5",
+        "description": "Console de jeu nouvelle génération avec SSD ultra rapide.",
+        "prix": 499.99,
+        "stock": 5,
+        "created_at": "2025-03-26T16:20:00Z"
+    },
+    {
+        "id": 5,
+        "nom": "Téléviseur OLED LG 55 pouces",
+        "description": "TV 4K OLED avec Dolby Vision et HDR10.",
+        "prix": 1499.99,
+        "stock": 8,
+        "created_at": "2025-03-25T18:10:00Z"
+    },
+    {
+        "id": 6,
+        "nom": "Clavier mécanique Corsair K95 RGB",
+        "description": "Clavier gamer avec switches Cherry MX et rétroéclairage RGB.",
+        "prix": 199.99,
+        "stock": 20,
+        "created_at": "2025-03-24T13:00:00Z"
+    },
+    {
+        "id": 7,
+        "nom": "Souris Logitech MX Master 3S",
+        "description": "Souris ergonomique sans fil avec défilement ultra-rapide.",
+        "prix": 99.99,
+        "stock": 30,
+        "created_at": "2025-03-23T11:05:00Z"
+    },
+    {
+        "id": 8,
+        "nom": "Casque gaming HyperX Cloud II",
+        "description": "Casque audio avec son surround 7.1 pour gamers.",
+        "prix": 89.99,
+        "stock": 12,
+        "created_at": "2025-03-22T10:40:00Z"
+    },
+    {
+        "id": 9,
+        "nom": "Montre connectée Apple Watch Series 9",
+        "description": "Montre intelligente avec suivi de la santé et GPS intégré.",
+        "prix": 429.99,
+        "stock": 18,
+        "created_at": "2025-03-21T15:20:00Z"
+    },
+    {
+        "id": 10,
+        "nom": "Tablette iPad Pro 11 pouces",
+        "description": "Tablette puissante avec puce M2 et écran ProMotion.",
+        "prix": 1099.99,
+        "stock": 7,
+        "created_at": "2025-03-20T14:10:00Z"
+    },
+    {
+        "id": 11,
+        "nom": "Appareil photo Sony Alpha 7 IV",
+        "description": "Appareil photo hybride avec capteur plein format.",
+        "prix": 2499.99,
+        "stock": 6,
+        "created_at": "2025-03-19T09:50:00Z"
+    },
+    {
+        "id": 12,
+        "nom": "Batterie externe Anker 20 000mAh",
+        "description": "Batterie portable haute capacité avec charge rapide.",
+        "prix": 49.99,
+        "stock": 40,
+        "created_at": "2025-03-18T08:15:00Z"
+    },
+    {
+        "id": 13,
+        "nom": "Routeur Wi-Fi 6 TP-Link Archer AX6000",
+        "description": "Routeur performant pour un réseau domestique rapide et stable.",
+        "prix": 249.99,
+        "stock": 9,
+        "created_at": "2025-03-17T19:30:00Z"
+    },
+    {
+        "id": 14,
+        "nom": "Disque dur externe WD 4To",
+        "description": "Stockage externe avec connectique USB 3.0.",
+        "prix": 129.99,
+        "stock": 22,
+        "created_at": "2025-03-16T17:00:00Z"
+    },
+    {
+        "id": 15,
+        "nom": "Imprimante multifonction HP LaserJet Pro",
+        "description": "Imprimante laser avec scanner et connexion Wi-Fi.",
+        "prix": 299.99,
+        "stock": 11,
+        "created_at": "2025-03-15T12:45:00Z"
+    },
+    {
+        "id": 16,
+        "nom": "Clavier Mécanique Logitech G Pro",
+        "description": "Clavier gaming avec switches GX Blue et rétroéclairage RGB.",
+        "prix": 129.99,
+        "stock": 15,
+        "created_at": "2025-03-29T11:32:27.728Z"
+    },
+    {
+        "id": 17,
+        "nom": "Kindle reader",
+        "description": "Pour lire electroniquement",
+        "prix": 5000,
+        "stock": 1500,
+        "created_at": "2025-03-29T11:36:51.526Z"
+    },
+    {
+        "id": 18,
+        "nom": "Kindle reader 222",
+        "description": "Pour lire electroniquement",
+        "prix": 6000,
+        "stock": 1300,
+        "created_at": "2025-03-29T11:40:11.553Z"
+    }
+]

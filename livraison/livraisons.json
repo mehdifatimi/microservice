@@ -1,0 +1,18 @@
+[
+  {
+    "id_livraison": "LIV001",
+    "id_commande": "CMD001",
+    "transporteur":"Nissan",
+    "statut": "livré",
+    "date_expedition": "2025-03-30T10:15:00Z",
+    "date_livraison": "2025-04-02T09:45:00Z"
+  },
+  {
+    "id_livraison": "LIV002",
+    "id_commande": "CMD002",
+    "transporteur":"Dacia",
+    "statut": "expédié",
+    "date_expedition": "2025-03-29T11:30:00Z",
+    "date_livraison": null
+  }
+]
